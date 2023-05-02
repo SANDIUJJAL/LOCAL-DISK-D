@@ -1,0 +1,11 @@
+﻿C:\Users\Administrator\Downloads\Telegram Desktop\@Bugatti_Cloud Bugatti_Man 27.03\megis_FREE CLOUD\ls\CL0A02B9CFB2E7DA03893628993DC98BF1_2023_01_11T13_59_16_573823\Cookies\Google_[Chrome]_Default Network.txt
+Email: yancarlos.penatorres@gmail.com | Plan: Premium
+---------------------------
+.netflix.com	TRUE	/	FALSE	1688055039	nfvdid	BQFmAAEBEOXUSI0Fr1zY5Fcb%2Bc7tAyZgB2tJWDoq3g4SwD85nVhusOZkR%2BgNIZ06fWptnysVagODzBxGlfFk58qo%2Fj%2B14Pt0sOzqZFIPrAVnJjWGvdUbqizEo9S3quko7jURIohb5cE6mSh3YryTNo707nlK5PGD
+.netflix.com	TRUE	/	FALSE	1703254146	NetflixId	v%3D2%26ct%3DBQAOAAEBENBqk4dh7YkqohM5f7eBNBCB0Mdf6wGFvmsC50VM7pzc4XTNUjdjGL8dWsTCe1afzpbQ4myNOmYinCtB51a_TPXPYsVKuLuhARec8EP3c7vSxpvoCZajR3_cg-s7Z-X9N2GNvx_-4iKoe5eH0cKw-NEfhSrcOc4a8j1lUF936gsEOP1xvQhuorLCeys0NQRRHm2xe5-6BgAy0f62KfmREFoPIJdOycEqKWmvbadvUfH3_IwCJRYwqKFsds9tqvtOrZpyGr5wxghpJSK8GnPe4dNY1TGl_exFwe_l8jOlBrJy20yT6dITXryxU1iRlVyfrxqFRjw0tdiVhOe4Y2I5nxRZJW4T-FJMKBMg5xqfIgcF7Jyd2WmYKk3isaB5MaA8UM52036o9SxdDbXkRGAodJzG1oWIi03l9nc3fkF9csWzZuDfX8ysjw4LcdRJGk02K2fUYyk-VQNH1EGR7VknipfLdchYohI1fjJY3V4P69j5CaIw8AVE862lF-M-CbbXZbt1y2pzeq4dRh1PsAOqwy5yPLzoJI1LBa2luV8_QPg4DwSeTEFnHpkmRJoOOIuL5jJEDnmC8pOPJ2KR4-URkcdtkDpR3wVwyCfTmjrQ40BKKPD04jhhUeUT70n5a4GxSg35%26bt%3Ddbl%26ch%3DAQEAEAABABQ7s8wE9kA3pPJZUyOlxBN3bm_wRDMBeD0.%26mac%3DAQEAEAABABQcWDjtdga94l0W47GrOlRlZQlAaZnHm3o.
+.netflix.com	TRUE	/	FALSE	1703254149	OptanonConsent	isIABGlobal=false&datestamp=Thu+Dec+22+2022+11%3A09%3A09+GMT-0300+(hora+de+verano+de+Chile)&version=202211.2.0&consentId=1f1ecad9-8a7d-495c-bd43-c3f0e3840f84&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0
+.netflix.com	TRUE	/	FALSE	1703254146	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTmqDQXXodnR-MDfd38YMGh2LnHM2nbAMg.%26dt%3D1671718146358
+.netflix.com	TRUE	/	FALSE	1703254935	memclid	442edc1b-9add-42b4-bc67-4985d6d592e5
+.netflix.com	TRUE	/	FALSE	1671720794	profilesNewSession	0
+---------------------------
+

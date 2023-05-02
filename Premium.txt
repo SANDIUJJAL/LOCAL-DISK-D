@@ -1,0 +1,12 @@
+﻿C:\Users\Administrator\Downloads\10x redline log\AR[BC4A1AAC26149F592324D3BDFD7C3558] [2023-03-29T00_12_02.1784469+03_00]\Cookies\Google_[Chrome]_Default Network.txt
+Email: augustocarrizo78@gmail.com | Plan: Premium
+---------------------------
+.netflix.com	TRUE	/	FALSE	1709568233	nfvdid	BQFmAAEBEHiG4s_7z-jdNeAyPdf2O-lgeoSjfu59n750VgYbMDSCmLSXftMsagIDlVqhwAsXzalXhL8p-1vMndmwym4PGuK44bOagLjgfspetPzOO80NEu_lncbM2vbGFwJRm0Yjq_flZn7xSB0JWPqqt9Mwa5rC
+.netflix.com	TRUE	/	FALSE	1710544191	memclid	7a6aa53f-1871-4626-83fb-c1ef3b7e3692
+.netflix.com	TRUE	/	FALSE	1711567337	NetflixId	ct%3DBQAOAAEBEKGDH9Q35cNOCPxoBB53Fi2CUE_n4RgM4y4b2MfQy8cTpACBhkluVqj4EdjBlFjV8J4KZz61xNfAwAgXLPqoyplZlU0ofdSfrLB13L6tiJzgzIvf8fT_bUd10R5KeoEZcAr1YGO6oGXBkRzne_AqpGJDE8TfFW3JFkYkjNdr-k7JRiwbE9ZP52fmghYwmcQiK1A7Ut3p-GyatfwTfYQLqGK9K--wO_dkayENX3PmPN-CG7zgpXp6vI0ovylhA3CnKygGp6txIJoIplKc2wYFFOfaCRsir-sx9CS6w85ftBZeGVWGLO9oUCiNH_Xopn6OTtzU4mSceRcs_d3TXYjlt1nTtLvEcSFHMqRVnYkC3klcQ9niYqL2c3GQnFFMXb6LEgThHxoDAzqa8VcXO3k-0Kj8YaMPmBkP55o84WIARlUjr62UPFD_-3bB_fSnigFfypuLhfRZkRQxXw1r38b5DcHXTv_Uj1-f3vqgpXmC-6ocoFc69Vethr1xb3yRBnoQl4kxGCjDFHo55Rdw7oxFtclZWpm2RcqTTowediHqDIBPkr46m3fMsToQ7x5gt8Ph-1I4agZKvFy-vHR0ignyxVdgznZDmugdctYz0cdXLz9PHHwatE7-YqgM11HS53cklRVWzDwAo7z0rBb-QHnUpPXNT8ZZknwGLie5VsPoHMh2iEcPgCoczhY5yBHvujr4wmgKQ4K9K7nTSozMLqRP4g17rBKp6lJj0LjvK9JJzG0Gc4dYX8hgsKQkX4lTAGDQ1PhSJR6I2gdj_aO7gSWSZLltI8H9VQLnGQ9sozYrrplGeJU.%26bt%3Ddbl%26ch%3DAQEAEAABABTjw3cMFzZuPhImNvKHHANVx-H3xvvlKd4.%26v%3D2%26mac%3DAQEAEAABABQE2Mht5_IkYrGlPnMC9Mld1-k9Cfm3JO8.
+.netflix.com	TRUE	/	FALSE	1711567340	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+28+2023+16%3A22%3A20+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=1a8ed4cc-f898-42b7-9343-e0d5f7431d6b&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1711567337	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABT-J9GROiE0n3mxO4s0Bu26OCsRHyQhc_Y.%26dt%3D1680031337482
+.netflix.com	TRUE	/	FALSE	1680042138	flwssn	01076745-53c5-4961-8001-bc1c6ddc2fc7
+.netflix.com	TRUE	/	FALSE	1680034594	profilesNewSession	0
+---------------------------
+
