@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1685287684	OptanonAlertBoxClosed	2022-05-28T15:28:04.809Z
+.netflix.com	TRUE	/	FALSE	1696947377	nfvdid	BQFmAAEBED7CIwuyjdRg1ml0GxA7a5FgpQbkW1cTvXnTPPqmBl850SOV-x8QczruzimHqEJol3pdMB6IdiquQOin82nUE6DKP-iKJMi80Ncz2RI3l3Bgg9bspUnjkw0Lo0VVADL5nW_Z5sy0l8kDvz2xrzZXkE1M
+.netflix.com	TRUE	/	FALSE	1704718209	NetflixId	v%3D2%26ct%3DBQAOAAEBEC1DJDr44zjK28vrT679YkGB0PiMCTsTRh9m5iYunfc3CzqJT1-TBnaQAxRHEDmlDv_uDo046vvPv9C1eXEaEl1V5A8lREBZr3WnrEkJXsFWoO5GJhuGmIb2vEWAhdlvZudJLaEQ3N1FsKY8qOUG-dzvaTm7GG_OluaJ_io8XVudBiUMBzl6LGBP3yEJwM5qKOxvbH98TZWEmffEMsbxtNqd5zqqKPvBd1SoNu6pVy_NwnQyIHdM0eKE0kHW6L7UlqLL_TiOGrIh8mIyEx-egcfPsZbF-O1Xxl43tb48RzKR9h-C9Lxop_qBxFX0M8bVwk3TNwwTjjkuX1IVFYxqQnMGIC4pff6llVchfQkg4Wf-Ked2YNqkto9X-eemaVLWcELblOhliX7Hc7lx2aFIEpUcs3k4G2EPBuS1-QjOv--4lRrVQFVr0ujYWnQAzabVYTLTgZj3dyiueFAyZPOOcRW8ybNWfIv562k8OOUdolmzOPFW7CK0WAfUjQ4S3wUm2sYUOEJaflif1SKQBm6Msm5Rv6dn3zOU0gtTFwsBdavHUCe_CCBjnP9lxQYb9as5tHuvl02toKPz_ay594zViXDuzCtfs_n_iNE3Is0e2g-hI8-m1Z1BBDKJ8GsNtxvcH3Gk%26bt%3Ddbl%26ch%3DAQEAEAABABSTMKCd59iQMpJ2Rdt3KHvSKOgmRKgvJU8.%26mac%3DAQEAEAABABR5UlblG05P8HC866pk8B6EeMoqHbCIoR4.
+.netflix.com	TRUE	/	FALSE	1704718210	OptanonConsent	isIABGlobal=false&datestamp=Sun+Jan+08+2023+13%3A50%3A10+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202211.2.0&consentId=8a13ea11-5741-48b1-9b3c-3c6a2b273d47&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&AwaitingReconsent=false&geolocation=ES%3BCT&isGpcEnabled=0
+.netflix.com	TRUE	/	FALSE	1704718209	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRwsKF9yN-m5GefkvYOc69vomAlsRCRh58.%26dt%3D1673182199983
+.netflix.com	TRUE	/	FALSE	1707742209	dsca	customer
+.netflix.com	TRUE	/	FALSE	1673193009	flwssn	df78c2ec-0409-423d-9b58-adb17524d93d
+.netflix.com	TRUE	/	FALSE	1680958210	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1680958210	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1704723856	memclid	ca1a2fa0-9eec-4713-97a3-a1fb5a1cc045
+.netflix.com	TRUE	/	FALSE	1673189633	profilesNewSession	0

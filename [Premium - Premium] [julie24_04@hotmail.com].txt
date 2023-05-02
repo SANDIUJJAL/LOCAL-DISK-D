@@ -1,0 +1,10 @@
+www.netflix.com	FALSE	/	FALSE	1684718829	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1698974853	nfvdid	BQFmAAEBEGmPYmkZHdxUJ6Zc9s-iYplgKQkRbWzLwXK9quWP-FaKrc5-k-iBcBa0CRTEcTw2klDmITua4BXqMF1TgSi10yUFwDBj3dvwP_w1bIXPxNd3tvSCFXHZOnYkVR0ZAptyDQB8z1WvaRLB8ORb0hIsqro-
+.netflix.com	TRUE	/	FALSE	1706677948	NetflixId	ct%3DBQAOAAEBEDBMiRYdB8MUbKMewgOh5p-CUFwCylAe6F2xvEtrl6BW8tA6GI-B0NAibfs65Exe-3BN3MGmAErA7XgUU3hxyNBX0RC8c5_AbqB-vFYIGKaJ2zJEXqgfz5qpW-wiQUpOeyi2cnBDj4duwwP6raSVm0s15fkZKsXL0aqEYuwphTnPmXiom14aaJjN1hAzvD0sgKI9pZ-rH3ngXunLPeC28BQ9EDzXew9_SkBdEVp8dJshkMfY6B1bV3fUTC4CdOesRIh_F3CRnoQYRA_wyCUKnmc1ZFV59IErqK9qZG4camcBZdkDlaYw6GuoTeyEOP8xzqaFUdBl3mUWgJNlxJXFN2f_GTmFbtb7B-ubfl9rwTqk0s4LETingQHANjklL7k7FXrEYoW6g7tLFfZ2ewInu-wECyVpUsVYLq7ORKSJm0mCQzDmzlD0ecIy7LQKLvuaK5ZAq1ECT9I5H02-894L7D7Auz1be2oeq7R1XuQvO9idSmyyt4AJjAxDpwcE04RlhEP-vpxpXcmQcCcxJ1V3U_kdLryOio1MC_V6MHQoukbtPStdVasR_16WjDX82KmEKkVkUM-8hYHqxhv680uqvWvLlu5zEDjYJtpM7pWj2s4035-MRrvBMm5FoJPHabT2AJTIwML2PPbw7NXiToKGZRaI677B0blOn2Rz8MUie76XVsKnw9x9Ve8u9E8monMrkYzH7j7nuouNRRl_Te-HHuyZZ3T9VDz06tTXNelHMVh42t6bWkmot9ObkKDu7ToXVaTmnaEJx3SaGnop3zzXnnyXDr81SM7PzWLSGErU0KTB5TI.%26bt%3Ddbl%26ch%3DAQEAEAABABS32vn0V-UFrdPj-uOW_kz_wpfrz21_Ft8.%26v%3D2%26mac%3DAQEAEAABABT9RCeQ9IpF2RTD0xKNapxkdUs0hIMywSQ.
+.netflix.com	TRUE	/	FALSE	1706677948	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTCO4IStqsyb9rpNJWOTYWm8do1Cfv9Nr8.%26dt%3D1675141946936
+.netflix.com	TRUE	/	FALSE	1709701966	dsca	customer
+.netflix.com	TRUE	/	FALSE	1682917966	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1682917966	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1682917966	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1706677967	OptanonConsent	isIABGlobal=false&datestamp=Tue+Jan+31+2023+00%3A12%3A47+GMT-0500+(heure+normale+de+l%E2%80%99Est)&version=202301.1.0&consentId=79519127-fe57-4e1d-aa02-c4215aa61f27&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0
+.netflix.com	TRUE	/	FALSE	1706677967	memclid	8bf9add2-4225-4521-945e-6dc92a11db06
