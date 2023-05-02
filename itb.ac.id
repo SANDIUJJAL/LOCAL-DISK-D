@@ -1,0 +1,921 @@
+[iNFO] Site Title: Beranda - Institut Teknologi Bandung
+[iNFO] IP address: 167.205.59.96
+[iNFO] Web Server: nginx
+[iNFO] CMS: Could Not Detect
+[iNFO] Cloudflare: Not Detected
+[iNFO] Robots File: Could NOT Find robots.txt!
+[GEO-IP] IP Address: 167.205.59.96
+[GEO-IP] Country: Indonesia
+[GEO-IP] State:
+[GEO-IP] City:
+[GEO-IP] Latitude: -6.1728
+[GEO-IP] Longitude: 106.8272
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 09 May 2022 12:32:03 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: __Secure-20220509__Secure-20220509=1adccf812b1956de62a835dfdac913e9; expires=Mon, 09-May-2022 14:32:03 GMT; Max-Age=7200; path=/; domain=www.itb.ac.id; secure; httponly
+Set-Cookie: __Secure-20220509=psp28hv418sd9jqgdjusvtg8rlv3197c; expires=Mon, 09-May-2022 14:32:03 GMT; Max-Age=7200; path=/; domain=www.itb.ac.id; secure; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Cache-Control: public, max-age=60, s-maxage=60
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Feature-Policy: geolocation none;
+Public-Key-Pins: pin-sha256="IfvCoDum9G+Mo4BifOEdr+Eoocy2lgleRN1snl5lvis="; max-age=5184000;
+Referrer-Policy: no-referrer
+Content-Security-Policy: block-all-mixed-content; upgrade-insecure-requests;
+
+[DNS Lookup] A : 167.205.59.96
+[DNS Lookup] MX : 10 yudhisthira.itb.ac.id.
+[DNS Lookup] MX : 20 mx2.itb.ac.id.
+[DNS Lookup] NS : ns1.itb.ac.id.
+[DNS Lookup] NS : ns2.itb.ac.id.
+[DNS Lookup] NS : dns1.pandi.id.
+[DNS Lookup] TXT : "A61D38399CDF778AAFC4080EA5C9FF44"
+[DNS Lookup] TXT : "wwxtn6lctpbr8ysd64km9146fjl0s6n4"
+[DNS Lookup] TXT : "7lDgtLu3dm8Alj68dZWUYbaBIqWHIcyl2FUPnaBX73pmb1M9QBpUpTAkrJvNhvIgRII0qg5p8Z2M0KyWAWIm2g=="
+[DNS Lookup] TXT : "v=spf1 ip4:167.205.1.40 ip4:167.205.1.122 -all"
+[DNS Lookup] TXT : "MS=ms70650739"
+[DNS Lookup] TXT : "ZOOM_verify_S78rquhsfCHZHFMpwM0FJ1"
+[DNS Lookup] TXT : "_globalsign-domain-verification=hzwFmJ4DQ_S2oTBcgWNh0wU8zl1c836Se44RDODyXv"
+[DNS Lookup] TXT : "adobe-idp-site-verification=16b9eaab9001d9469281e8bb02610ed4f17abbced1cc7a42fe0c2df7594606de"
+[DNS Lookup] TXT : "google-site-verification=eAhu-ZgNX8yqElD-eXNLIIjhl0i-CE4ekcmPKSexXT8google-site-verification=eAhu-ZgNX8yqElD-eXNLIIjhl0i-CE4ekcmPKSexXT8"
+[DNS Lookup] SOA : ns1.itb.ac.id. dnsadm.itb.ac.id. 2022042102 3600 3600 1209600 3600
+
+; <<>> DiG 9.16.27 <<>> itb.ac.id
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30695
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 3, ADDITIONAL: 5
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;itb.ac.id.                     IN      A
+
+;; ANSWER SECTION:
+itb.ac.id.              3600    IN      A       167.205.59.96
+
+;; AUTHORITY SECTION:
+itb.ac.id.              3600    IN      NS      dns1.pandi.id.
+itb.ac.id.              3600    IN      NS      ns1.itb.ac.id.
+itb.ac.id.              3600    IN      NS      ns2.itb.ac.id.
+
+;; ADDITIONAL SECTION:
+ns1.itb.ac.id.          3600    IN      A       167.205.23.1
+ns1.itb.ac.id.          3600    IN      AAAA    2403:8000:23::1
+ns2.itb.ac.id.          3600    IN      A       167.205.22.123
+ns2.itb.ac.id.          3600    IN      AAAA    2403:8000:22:96::123
+
+;; Query time: 88 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8)
+;; WHEN: Mon May 09 19:27:09 WIB 2022
+;; MSG SIZE  rcvd: 203
+
+;; Got recursion not available from 8.8.8.8, trying next server
+;; Got recursion not available from 1.1.1.1, trying next server
+Server:         8.8.4.4
+Address:        8.8.4.4#53
+
+Non-authoritative answer:
+Name:   itb.ac.id
+Address: 167.205.59.96
+
+[SubNet Calc] Address       = 167.205.59.96
+[SubNet Calc] Network       = 167.205.59.96 / 32
+[SubNet Calc] Netmask       = 255.255.255.255
+[SubNet Calc] Broadcast     = not needed on Point-to-Point links
+[SubNet Calc] Wildcard Mask = 0.0.0.0
+[SubNet Calc] Hosts Bits    = 0
+[SubNet Calc] Max. Hosts    = 1   (2^0 - 0)
+[SubNet Calc] Host Range    = { 167.205.59.96 - 167.205.59.96 }
+
+[+] Subdomain: mx0.itb.ac.id
+[-] IP: 167.205.23.30
+
+[+] Subdomain: affan.cnrglab.itb.ac.id
+[-] IP: 167.205.1.227
+
+[+] Subdomain: rekrutmen.kepegawaian.itb.ac.id
+[-] IP: 167.205.57.132
+
+[+] Subdomain: kinerja.lib.itb.ac.id
+[-] IP: 167.205.4.7
+
+[+] Subdomain: ns.lib.itb.ac.id
+[-] IP: 167.205.4.4
+
+[+] Subdomain: wisehealth.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: sf19.kuliah.itb.ac.id
+[-] IP: 167.205.57.43
+
+[+] Subdomain: cpcontacts.robotics.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: seminar.fmipa.itb.ac.id
+[-] IP: 167.205.82.60
+
+[+] Subdomain: petroleum.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: vmx6.itb.ac.id
+[-] IP: 167.205.88.8
+
+[+] Subdomain: ra02.itb.ac.id
+[-] IP: 167.205.30.19
+
+[+] Subdomain: geothermal.fttm.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: virtualmx12.itb.ac.id
+[-] IP: 167.205.1.125
+
+[+] Subdomain: ubala.kemahasiswaan.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: kmpn.ftmd.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: mail.gc.itb.ac.id
+[-] IP: 167.205.16.13
+
+[+] Subdomain: cpcalendars.tenismeja.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: abimanyu.cnrglab.itb.ac.id
+[-] IP: 167.205.22.81
+
+[+] Subdomain: ws.akademik.itb.ac.id
+[-] IP: 35.219.29.134
+
+[+] Subdomain: ta.fttm.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: cisco-dialin12.itb.ac.id
+[-] IP: 167.205.23.76
+
+[+] Subdomain: cpanel.fpa.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: nymphaea.sith.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: redmine.ditsti.itb.ac.id
+[-] IP: 167.205.59.93
+
+[+] Subdomain: vmx2.itb.ac.id
+[-] IP: 167.205.88.4
+
+[+] Subdomain: klinikkayu.sith.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: layanan.uptor.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: cpcontacts.lpik.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: dupakfti-training.ti.itb.ac.id
+[-] IP: 167.205.19.251
+
+[+] Subdomain: sim2.asrama.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: ccc.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: pinczakko.cnrglab.itb.ac.id
+[-] IP: 167.205.22.156
+
+[+] Subdomain: singalodra.itb.ac.id
+[-] IP: 167.205.22.164
+
+[+] Subdomain: e.lib.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: mail.lapi.itb.ac.id
+[-] IP: 167.205.8.2
+
+[+] Subdomain: cpanel.mira.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: dhcp2.itb.ac.id
+[-] IP: 167.205.62.54
+
+[+] Subdomain: spada.kuliah.itb.ac.id
+[-] IP: 167.205.50.5
+
+[+] Subdomain: vmx39.itb.ac.id
+[-] IP: 167.205.88.41
+
+[+] Subdomain: vmx35.itb.ac.id
+[-] IP: 167.205.88.37
+
+[+] Subdomain: km.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: ft.ftmd.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: www.ke.ftmd.itb.ac.id
+[-] IP: 167.205.20.36
+
+[+] Subdomain: powernoc.itb.ac.id
+[-] IP: 167.205.23.55
+
+[+] Subdomain: geologi.fitb.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: surkad.gd.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: journal.fmipa.itb.ac.id
+[-] IP: 167.205.82.60
+
+[+] Subdomain: labtekv-cat6-gec-3.itb.ac.id
+[-] IP: 167.205.17.6
+
+[+] Subdomain: nomorsurat.fti.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: staff-router.lib.itb.ac.id
+[-] IP: 167.205.4.97
+
+[+] Subdomain: aquarius.cnrglab.itb.ac.id
+[-] IP: 167.205.22.154
+
+[+] Subdomain: vmx25.itb.ac.id
+[-] IP: 167.205.88.27
+
+[+] Subdomain: psa.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: space.sappk.itb.ac.id
+[-] IP: 167.205.57.40
+
+[+] Subdomain: glite-ui.grid.itb.ac.id
+[-] IP: 167.205.1.130
+
+[+] Subdomain: labrsda.ftsl.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: geothermal.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: gbf.sbm.itb.ac.id
+[-] IP: 203.175.9.48
+
+[+] Subdomain: ppmb.itb.ac.id
+[-] IP: 167.205.31.36
+
+[+] Subdomain: asiapharm3.fa.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: lib-jkt.sbm.itb.ac.id
+[-] IP: 139.255.104.235
+
+[+] Subdomain: mailman.asrama.itb.ac.id
+[-] IP: 167.205.59.30
+
+[+] Subdomain: siskeu01.itb.ac.id
+[-] IP: 167.205.108.141
+
+[+] Subdomain: gt.fttm.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: pslh.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: tpb2.fsrd.itb.ac.id
+[-] IP: 167.205.102.62
+
+[+] Subdomain: cache3.itb.ac.id
+[-] IP: 167.205.22.106
+
+[+] Subdomain: lms-spada.kuliah.itb.ac.id
+[-] IP: 167.205.50.5
+
+[+] Subdomain: magazine.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: noc-1.fsrd.itb.ac.id
+[-] IP: 167.205.102.12
+
+[+] Subdomain: www.gd.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: virtualmx7.itb.ac.id
+[-] IP: 167.205.1.120
+
+[+] Subdomain: dcpusat5.itb.ac.id
+[-] IP: 167.205.108.181
+
+[+] Subdomain: ecosystem.sbm.itb.ac.id
+[-] IP: 139.255.104.235
+
+[+] Subdomain: pemira.km.itb.ac.id
+[-] IP: 167.205.57.53
+
+[+] Subdomain: www.lib.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: mx1a.itb.ac.id
+[-] IP: 167.205.23.6
+
+[+] Subdomain: inkubator.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: geodesy.gd.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: cisco-dialin14.itb.ac.id
+[-] IP: 167.205.23.78
+
+[+] Subdomain: mailtracking.ftmd.itb.ac.id
+[-] IP: 167.205.21.66
+
+[+] Subdomain: lpsp.fti.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: data.ftmd.itb.ac.id
+[-] IP: 167.205.15.6
+
+[+] Subdomain: www.ioaa2.itb.ac.id
+[-] IP: 167.205.49.2
+
+[+] Subdomain: seminar-kurikulum.fa.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: ws-dev.akademik.itb.ac.id
+[-] IP: 35.219.29.134
+
+[+] Subdomain: dep11.fsrd.itb.ac.id
+[-] IP: 167.205.102.110
+
+[+] Subdomain: vmx10.itb.ac.id
+[-] IP: 167.205.88.12
+
+[+] Subdomain: www.meteo.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: mikro.sith.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: mapping.fitb.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: biologis3.sith.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: upk.fi.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: webmail.lapi.itb.ac.id
+[-] IP: 167.205.8.2
+
+[+] Subdomain: www.fsrd.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: fmipa.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: elka.fi.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: sekretariat.wrsd.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: itb2015.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: sipa.nrcn.itb.ac.id
+[-] IP: 167.205.59.71
+
+[+] Subdomain: webdisk.ojs.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: api.akademik.itb.ac.id
+[-] IP: 35.219.29.134
+
+[+] Subdomain: fsrd-12.fsrd.itb.ac.id
+[-] IP: 167.205.102.33
+
+[+] Subdomain: himatika.itb.ac.id
+[-] IP: 167.205.6.28
+
+[+] Subdomain: virtualmx8.itb.ac.id
+[-] IP: 167.205.22.121
+
+[+] Subdomain: ns.hosting2.itb.ac.id
+[-] IP: 167.205.50.40
+
+[+] Subdomain: ijphysics.fi.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: mikrobiologi.sith.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: cpcalendars.percama.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: ftp2.gc.itb.ac.id
+[-] IP: 167.205.16.10
+
+[+] Subdomain: www.che.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: summerschool.sbm.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: logger3.itb.ac.id
+[-] IP: 167.205.22.116
+
+[+] Subdomain: imutsky.cnrglab.itb.ac.id
+[-] IP: 167.205.22.180
+
+[+] Subdomain: logdev.ditsti.itb.ac.id
+[-] IP: 167.205.59.95
+
+[+] Subdomain: gitlab2.ditsti.itb.ac.id
+[-] IP: 167.205.57.133
+
+[+] Subdomain: develop.ai3.itb.ac.id
+[-] IP: 167.205.108.137
+
+[+] Subdomain: nic.itb.ac.id
+[-] IP: 167.205.59.99
+
+[+] Subdomain: cpanel.ojs.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: vmware2.ai3.itb.ac.id
+[-] IP: 167.205.23.86
+
+[+] Subdomain: dev.fttm.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: rusnas.cnrglab.itb.ac.id
+[-] IP: 167.205.25.221
+
+[+] Subdomain: vmx23.itb.ac.id
+[-] IP: 167.205.88.25
+
+[+] Subdomain: aiesec.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: rektorkita.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: www.oceanography.fitb.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: pildek.fitb.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: mail.ai3.itb.ac.id
+[-] IP: 167.205.23.14
+
+[+] Subdomain: webdisk.alumni.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: vmx41.itb.ac.id
+[-] IP: 167.205.88.43
+
+[+] Subdomain: fitb-x.fitb.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: medik.tf.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: hrsid.itb.ac.id
+[-] IP: 167.205.59.54
+
+[+] Subdomain: mapeki.sith.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: ik.fti.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: infopublik.ftmd.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: hmp.pl.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: bpudl.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: www.sipa.fttm.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: mira.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: itkb.itb.ac.id
+[-] IP: 167.205.53.130
+
+[+] Subdomain: pids.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: covidtrak.itb.ac.id
+[-] IP: 167.205.57.192
+
+[+] Subdomain: nbp.fi.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: wavelan-disnak-itb.itb.ac.id
+[-] IP: 167.205.207.74
+
+[+] Subdomain: www.ccc.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: geodesi-250.gd.itb.ac.id
+[-] IP: 167.205.98.250
+
+[+] Subdomain: csc.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: usm1.itb.ac.id
+[-] IP: 167.205.59.82
+
+[+] Subdomain: aset.ditsti.itb.ac.id
+[-] IP: 167.205.59.95
+
+[+] Subdomain: siamin.ditsp.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: www.pmb.pmk.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: kuliah3.itb.ac.id
+[-] IP: 167.205.50.27
+
+[+] Subdomain: www.partage.u-pem.fr.new-multisite.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: mbox2.itb.ac.id
+[-] IP: 167.205.50.28
+
+[+] Subdomain: status.ditsti.itb.ac.id
+[-] IP: 167.205.59.53
+
+[+] Subdomain: thepi.fi.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: tppmm.fttm.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: cpcontacts.kmjsiginjai.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: analytical.chem.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: www.chem.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: gitlab.ditsti.itb.ac.id
+[-] IP: 167.205.59.133
+
+[+] Subdomain: wavelan-itb-unisba.itb.ac.id
+[-] IP: 167.205.207.9
+
+[+] Subdomain: www.s3tmi.fti.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: siqa.itb.ac.id
+[-] IP: 167.205.59.53
+
+[+] Subdomain: inddes.fsrd.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: sihpc.ftmd.itb.ac.id
+[-] IP: 167.205.57.98
+
+[+] Subdomain: mail3.itb.ac.id
+[-] IP: 167.205.59.125
+
+[+] Subdomain: webdisk.tenismeja.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: planocosmo.sappk.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: biologis1.sith.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: teknikpantai.ftsl.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: api.sappk.itb.ac.id
+[-] IP: 167.205.57.40
+
+[+] Subdomain: reno-ade1a55930.cnrglab.itb.ac.id
+[-] IP: 167.205.22.152
+
+[+] Subdomain: akademik.itb.ac.id
+[-] IP: 35.219.29.134
+
+[+] Subdomain: webmail.percama.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: cisco-dialin7.itb.ac.id
+[-] IP: 167.205.23.71
+
+[+] Subdomain: dashboard.amari.itb.ac.id
+[-] IP: 167.205.59.127
+
+[+] Subdomain: apan.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: alumni.gc.itb.ac.id
+[-] IP: 167.205.16.17
+
+[+] Subdomain: www.geothermal.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: webmail.lpik.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: sipelajar.ftmd.itb.ac.id
+[-] IP: 167.205.15.7
+
+[+] Subdomain: webpac.lib.itb.ac.id
+[-] IP: 167.205.4.5
+
+[+] Subdomain: cpcalendars.new-multisite.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: dep22.fsrd.itb.ac.id
+[-] IP: 167.205.102.121
+
+[+] Subdomain: webmail.ojs.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: english.fitb.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: bbrc.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: denyjuanda.fitb.itb.ac.id
+[-] IP: 167.205.13.132
+
+[+] Subdomain: selva.sith.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: cas-uds.grenet-fr.new-multisite.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: www.ti.fti.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: tm.lib.itb.ac.id
+[-] IP: 167.205.4.7
+
+[+] Subdomain: api-dev.sbm.itb.ac.id
+[-] IP: 167.205.28.239
+
+[+] Subdomain: english.fa.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: teknik.ai3.itb.ac.id
+[-] IP: 167.205.23.94
+
+[+] Subdomain: mbox3.itb.ac.id
+[-] IP: 167.205.59.29
+
+[+] Subdomain: geoaplika.itb.ac.id
+[-] IP: 167.205.13.131
+
+[+] Subdomain: virtualmx3.itb.ac.id
+[-] IP: 167.205.1.116
+
+[+] Subdomain: libre.itb.ac.id
+[-] IP: 167.205.1.247
+
+[+] Subdomain: virtualmx5.itb.ac.id
+[-] IP: 167.205.1.118
+
+[+] Subdomain: registrasi-ina.itb.ac.id
+[-] IP: 167.205.59.99
+
+[+] Subdomain: cce.sbm.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: farmaklin.fa.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: webcache.cnrglab.itb.ac.id
+[-] IP: 167.205.22.102
+
+[+] Subdomain: virtualearth.fitb.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: arycomp.cnrglab.itb.ac.id
+[-] IP: 167.205.22.182
+
+[+] Subdomain: dep1.fsrd.itb.ac.id
+[-] IP: 167.205.102.100
+
+[+] Subdomain: irihm-stock.sbm.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: bosscha.itb.ac.id
+[-] IP: 167.205.7.6
+
+[+] Subdomain: geodynamics.gc.itb.ac.id
+[-] IP: 167.205.16.11
+
+[+] Subdomain: conference.fmipa.itb.ac.id
+[-] IP: 167.205.50.41
+
+[+] Subdomain: wavelan-radnet-itb.itb.ac.id
+[-] IP: 167.205.23.106
+
+[+] Subdomain: www.lppm.itb.ac.id
+[-] IP: 167.205.59.62
+
+[+] Subdomain: sappk2.itb.ac.id
+[-] IP: 167.205.50.56
+
+[+] Subdomain: berkaskeu.fti.itb.ac.id
+[-] IP: 167.205.50.41
+
+[ facebook  ] https://www.facebook.com/institutteknologibandung
+[  twitter  ] https://twitter.com/itbofficial
+[ instagram ] https://www.instagram.com/itb1920/
+[  youtube  ] https://www.youtube.com/user/itbofficial
+* https://itb.ac.id/search
+* https://itb.ac.id/contact
+* https://itb.ac.id/covid19
+* https://itb.ac.id/myitb
+* https://itb.ac.id/pers
+* https://itb.ac.id/pengunjung
+* https://itb.ac.id/mitra
+* https://itb.ac.id/alumni
+* https://itb.ac.id/students
+* https://itb.ac.id/staff
+* https://itb.ac.id/
+* https://itb.ac.id/tentang-itb
+* https://itb.ac.id/penerimaan
+* https://itb.ac.id/pendidikan
+* https://itb.ac.id/penelitian
+* https://itb.ac.id/pengabdian
+* https://itb.ac.id/penghargaan
+* https://itb.ac.id/multikampus
+* #0
+* https://itb.ac.id//staf
+* https://itb.ac.id//mahasiswa
+* https://itb.ac.id//mitra
+* https://itb.ac.id//alumni
+* https://itb.ac.id//pengunjung
+* https://itb.ac.id//pers
+* https://itb.ac.id/tentang-itb
+* https://itb.ac.id/sejarah
+* https://itb.ac.id/visi-dan-misi
+* https://itb.ac.id/pimpinan
+* https://itb.ac.id/landasan-hukum
+* https://itb.ac.id/struktur-organisasi
+* https://itb.ac.id/majelis-wali-amanat
+* https://itb.ac.id/senat-akademik
+* https://itb.ac.id/multikampus
+* https://itb.ac.id/kunjungan
+* https://itb.ac.id/penerimaan
+* https://itb.ac.id/sarjana
+* https://itb.ac.id/pascasarjana
+* https://itb.ac.id/profesi
+* https://itb.ac.id/pertukaran-mahasiswa
+* https://itb.ac.id/kelas-internasional
+* https://itb.ac.id/pendidikan
+* https://itb.ac.id/fakultas-dan-sekolah
+* https://itb.ac.id/program-studi
+* https://itb.ac.id/beasiswa
+* /staff/
+* kehidupan-kampus
+* https://itb.ac.id/aktivitas-mahasiswa
+* https://itb.ac.id/jelajah
+* /alumni
+* https://itb.ac.id/program-alumni
+* https://itb.ac.id/profil-alumni
+* https://itb.ac.id/donasi
+* https://www.itb.ac.id/multikampus
+* https://sdgsc.itb.ac.id/
+* https://www.itb.ac.id/in-harmonia-progressio-menggapai-martabat-bangsa-dan-reputasi-dunia
+* https://www.itb.ac.id/covid19
+* #carousel-top
+* #carousel-top
+* https://itb.ac.id/kolom-rektor/sambutan-rektor/sambutan-rektor-pada-penerimaan-mahasiswa-baru-januari-2022
+* https://itb.ac.id/berita/detail/58619/mental-kreatif-landasan-kapabilitas-dalam-merdeka-berkarya
+* https://itb.ac.id/berita/detail/58619/mental-kreatif-landasan-kapabilitas-dalam-merdeka-berkarya
+* #
+* https://itb.ac.id/berita/detail/58618/peran-penting-sains-agama-dalam-pembangunan
+* https://itb.ac.id/berita/detail/58618/peran-penting-sains-agama-dalam-pembangunan
+* #
+* https://itb.ac.id/berita/detail/58617/kolaborasi-pegiat-umkm-bidang-ekraf-ntt-dan-desainer-muda-fsrd-itb
+* https://itb.ac.id/berita/detail/58617/kolaborasi-pegiat-umkm-bidang-ekraf-ntt-dan-desainer-muda-fsrd-itb
+* #
+* https://itb.ac.id/berita/detail/58616/penentuan-1-syawal-1443h-observatorium-bosscha-itb-lakukan-pengataman-hilal
+* https://itb.ac.id/berita/detail/58616/penentuan-1-syawal-1443h-observatorium-bosscha-itb-lakukan-pengataman-hilal
+* #
+* https://itb.ac.id/berita/detail/58615/gerhana-matahari-total-2023-kado-seabad-astronomi-modern-indonesia
+* https://itb.ac.id/berita/detail/58615/gerhana-matahari-total-2023-kado-seabad-astronomi-modern-indonesia
+* #
+* https://itb.ac.id/berita/detail/58614/tendik-itb-dilatih-penggunaan-sistem-oracle-fusion-untuk-pengelolaan-keuangan
+* https://itb.ac.id/berita/detail/58614/tendik-itb-dilatih-penggunaan-sistem-oracle-fusion-untuk-pengelolaan-keuangan
+* #
+* https://itb.ac.id/berita/detail/58613/itb-dan-kejaksaan-tinggi-jawa-barat-jalin-kerja-sama
+* https://itb.ac.id/berita/detail/58613/itb-dan-kejaksaan-tinggi-jawa-barat-jalin-kerja-sama
+* #
+* https://itb.ac.id/berita/detail/58612/menelisik-perkembangan-kecerdasan-buatan-bersama-peneliti-ai-senior-di-google-deepmind
+* https://itb.ac.id/berita/detail/58612/menelisik-perkembangan-kecerdasan-buatan-bersama-peneliti-ai-senior-di-google-deepmind
+* #
+* https://itb.ac.id/berita/detail/58611/studium-generale-itb-peran-penting-komponen-cadangan-untuk-upaya-bela-negara
+* https://itb.ac.id/berita/detail/58611/studium-generale-itb-peran-penting-komponen-cadangan-untuk-upaya-bela-negara
+* #
+* https://itb.ac.id/berita
+* https://itb.ac.id/event/info/itb-mitsubishi-lecture-series-final:143
+* https://itb.ac.id/event/info/karsa-loka-vol-15:141
+* https://itb.ac.id/event/info/sidang-terbuka-dies-natalis-ke-63-institut-teknologi-bandung:139
+* https://itb.ac.id/event
+*
+*
+* https://itb.ac.id/multimedia
+* https://itb.ac.id//100-tahun-itb-dan-pendidikan-tinggi-teknik-di-indonesia
+* https://itb.ac.id/gpr
+* https://lapor.go.id
+* https://ppid.itb.ac.id
+* https://bai.itb.ac.id/zona-integritas-2/
+* https://ppid.itb.ac.id/informasi-publik/laporan-keuangan-tahunan-neraca-arus-kas-aktivitas
+* https://itb.ac.id//100-tahun-itb-dan-pendidikan-tinggi-teknik-di-indonesia
+* https://itb.ac.id/gpr
+* https://lapor.go.id
+* https://ppid.itb.ac.id
+* https://bai.itb.ac.id/zona-integritas-2/
+* https://ppid.itb.ac.id/informasi-publik/laporan-keuangan-tahunan-neraca-arus-kas-aktivitas
+* mailto:humas@itb.ac.id
+* mailto:humas_@jatinangor.itb.ac.id
+* mailto:kampuscirebon@itb.ac.id
+* /contact
+* https://itb.ac.id/sejarah
+* https://itb.ac.id/kunjungan
+* /directories
+* http://petakampus.itb.ac.id/
+* https://itb.ac.id/pertukaran-mahasiswa
+* https://itb.ac.id/profesi
+* https://itb.ac.id/pascasarjana
+* https://itb.ac.id/sarjana
+* https://itb.ac.id/kelas-internasional
+* https://itb.ac.id/fakultas-dan-sekolah
+* https://itb.ac.id/program-studi
+* https://itb.ac.id/beasiswa
+* https://spada.kuliah.itb.ac.id/
+* https://kuliah.itb.ac.id/
+* https://digilib.itb.ac.id/
+* https://itb.ac.id/penelitian
+* https://itb.ac.id/kelompok-keahliankeilmuan
+* https://itb.ac.id/jurnal
+* http://lpik.itb.ac.id/
+* https://www.lppm.itb.ac.id/
+* https://partnership.itb.ac.id/
+* https://bpudl.itb.ac.id/
+* https://itb.ac.id/sejarah
+* https://itb.ac.id/kunjungan
+* /directories
+* http://petakampus.itb.ac.id/
+* https://itb.ac.id/pertukaran-mahasiswa
+* https://itb.ac.id/profesi
+* https://itb.ac.id/pascasarjana
+* https://itb.ac.id/sarjana
+* https://itb.ac.id/kelas-internasional
+* https://itb.ac.id/fakultas-dan-sekolah
+* https://itb.ac.id/program-studi
+* https://itb.ac.id/beasiswa
+* https://spada.kuliah.itb.ac.id/
+* https://kuliah.itb.ac.id/
+* https://digilib.itb.ac.id/
+* https://itb.ac.id/penelitian
+* https://itb.ac.id/kelompok-keahliankeilmuan
+* https://itb.ac.id/jurnal
+* http://lpik.itb.ac.id/
+* https://www.lppm.itb.ac.id/
+* https://partnership.itb.ac.id/
+* https://bpudl.itb.ac.id/
+* https://twitter.com/itbofficial
+* https://www.facebook.com/institutteknologibandung
+* https://www.youtube.com/user/itbofficial
+* https://www.instagram.com/itb1920/
+* https://www.itb.ac.id/rss/feed
+* https://itb.ac.id/news
+* https://itb.ac.id/event
+* https://itb.ac.id/focus
+* https://itb.ac.id/ebook/
+* https://itb.ac.id/peta-situs
+
